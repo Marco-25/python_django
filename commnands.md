@@ -93,7 +93,7 @@
         - heroku config:set ALLOWED_HOSTS=project-django-training.herokuapp.com
 
     - instalar dj-database-url
-        - pipenv install dj-database-u
+        - pipenv install dj-database-url
 
     - instalar psycopg2-binary (conector do postgres)
         - pipenv install psycopg2-binary
