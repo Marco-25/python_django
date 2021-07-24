@@ -5,3 +5,4 @@ Project Django
 [![Updates](https://pyup.io/repos/github/Marco-25/python_django/shield.svg)](https://pyup.io/repos/github/Marco-25/python_django/)
 [![Python 3](https://pyup.io/repos/github/Marco-25/python_django/python-3-shield.svg)](https://pyup.io/repos/github/Marco-25/python_django/)
 
+- link do site - [app training python](https://apptrainingpython.herokuapp.com/)

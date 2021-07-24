@@ -33,7 +33,7 @@
       - alias mg='python $VIRTUAL_ENV/../manage.py'
 
     - criar arquivo Procfile
-        - conteudo do arquivo: web: gunicorn name_project.wsgi --log-file-
+        - conteudo do arquivo: web: gunicorn name_project.wsgi --log-file -
 
     - instalar gunicorn
         - pipenv install gunicorn
