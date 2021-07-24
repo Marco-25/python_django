@@ -7,10 +7,10 @@ name = "pypi"
 django = "*"
 gunicorn = "*"
 pytest-django = "*"
+python-decouple = "*"
 
 [dev-packages]
 flake8 = "*"
-pytest-cov = "*"
 
 [requires]
 python_version = "3.6"

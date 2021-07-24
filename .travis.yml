@@ -12,12 +12,13 @@ env:
 install:
   - pip install pipenv
   - pipenv sync -d
+  - cp contrib/env-exemple .env
 
 script:
   - pipenv run flake8 .
   - pipenv run pytest --cov=app
 
-after_success:
-  - pipenv run codecov
+#after_success:
+#  - pipenv run codecov
 
 
