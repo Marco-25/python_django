@@ -116,3 +116,6 @@
 
     - instalar django-debug-toolbar
         - pipenv install django-debug-toolbar
+
+    - criar usuario na heroku
+        - heroku run python manage.py createsuperuser
