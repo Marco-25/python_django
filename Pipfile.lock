@@ -42,11 +42,10 @@
         },
         "botocore": {
             "hashes": [
-                "sha256:c92dc2b69aec36b7482e5b05ac0a00d65ac972d745a74546942f09c95e68d335",
-                "sha256:cabff036f702411f47c6dae09134315e0b524c8eda6bb1de99ee75fc1ee07f7f"
+                "sha256:201e10d3b1b40d65b7c9214be7087d78ed65de00e7362bd1e020741301d09fbc",
+                "sha256:b9820ee29d70059c9b0e2a69ec13ebf80f4a0bc85f47578f17e951438c506b2d"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==1.21.6"
+            "version": "==1.21.25"
         },
         "dj-database-url": {
             "hashes": [
